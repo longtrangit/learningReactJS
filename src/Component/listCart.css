@@ -1,0 +1,4 @@
+.listCart {
+    display: flex;
+    flex-flow: column  ;
+}

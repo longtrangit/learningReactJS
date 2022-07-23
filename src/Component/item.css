@@ -1,0 +1,18 @@
+.item {
+    background-color: orange;
+    border: 2px solid;
+    width: 300px;
+    height: 250px;
+    display: flex;
+    flex-flow: column;
+}
+
+.content {
+    flex : 1
+}
+
+.btnClick {
+    display: flex;
+    margin-bottom: 10px ;
+    align-self: center;
+}
